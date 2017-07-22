@@ -1,0 +1,20 @@
+{
+  "name": "angular-crop-my-image",
+  "authors": [
+    "Denis Stoliarchuk <admin@nevera.space>"
+  ],
+  "description": "Universal Angular Based cropper images, lignth and easy to use.",
+  "main": "",
+  "keywords": [
+    "nevera.space"
+  ],
+  "license": "MIT",
+  "homepage": "https://nevera.space/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
